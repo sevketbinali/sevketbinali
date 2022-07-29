@@ -36,12 +36,3 @@
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> 
 <a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
