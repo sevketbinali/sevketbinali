@@ -1,5 +1,4 @@
 <h2 align="center">Hello there! 🚀 I'm Şevket</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sevketbinali&label=Profile%20views&color=0e75b6&style=flat" alt="sevketbinalii" /> </p>
 <h3 align="center">A Software Developer from Bursa/Turkey</h3>
 
 
