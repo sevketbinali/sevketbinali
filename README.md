@@ -1,5 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Şevket</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sevketbinali&label=Profile%20views&color=0e75b6&style=flat" alt="sevketbinalii" /> </p>
 <h3 align="center">A Software Developer from Bursa/Turkey</h3>
+
 
 <p>
  <h5 align="center">
@@ -7,9 +9,12 @@
       <a href="https://www.linkedin.com/in/sevketbinali/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/sevketbinali" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
     <code><a href="https://discordapp.com/users/244782017005355009" title="Discord"><img width="18" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYD2KmDY8FGrhzPHU81Md1cpwpUurLQiXRR7ezVPx3uRG51IFrUaQ1-SDi6Yd1nxIGie4&usqp=CAU"> Discord</a></code>
+
+
     
   </h5>
   <br>
+  
   
 - 🔬 I'm a student in Computer Engineering at Bursa Uludag University.
 - 📚 Currently Working with **React.js** and anything related with **JavaScript**.
@@ -34,5 +39,8 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel=”noopener”> <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="30" height="30"/> </a>  &nbsp;
 <a href="https://anaconda.org/" target="_blank" rel=”noopener”> <img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="30" height="30"/> </a>   &nbsp; 
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> 
-<a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a>
+<a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a> 
+
+
+
 
