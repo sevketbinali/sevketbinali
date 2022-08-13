@@ -20,7 +20,7 @@
 - 📫 How to reach me **sevketbinali@gmail.com**
   
 
-<h3 align="left">Technologies & Tools:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left"> 
 
 <a>
@@ -32,9 +32,10 @@
  <a href="https://www.djangoproject.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg" alt="django" width="31" height="31"/> </a> &nbsp;
  <a href="https://www.tensorflow.org" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="31" height="31"/> </a> &nbsp;
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a> &nbsp;
- <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="http://upload.turkcewiki.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="34" height="31"/> </a> &nbsp; &nbsp; &nbsp; &nbsp;
+ 
 </a>
 
+<h3 align="left">Tools:</h3>
 <a>
  <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a> &nbsp;
  <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> &nbsp;
@@ -42,6 +43,7 @@
  <a href="https://anaconda.org/" target="_blank" rel=”noopener”> <img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="30" height="30"/> </a>   &nbsp; 
  <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> 
  <a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="http://upload.turkcewiki.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="34" height="31"/> </a> 
 </a>
 
 
