@@ -44,7 +44,9 @@
  <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> 
  <a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="http://upload.turkcewiki.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="34" height="31"/> </a> 
-</a>
+</a> <br>
+<br>
+
 
 
  <a href="https://github.com/sevketbinali/github-readme-stats"><img alt="Sevket Binali's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sevketbinali&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
