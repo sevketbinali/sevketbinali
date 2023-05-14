@@ -4,8 +4,7 @@
 
 <p>
  <h5 align="center">
-    <code>
-      <a href="https://www.linkedin.com/in/sevketbinali/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/sevketbinali/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/sevketbinali" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
     <code><a href="https://discordapp.com/users/244782017005355009" title="Discord"><img width="18" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYD2KmDY8FGrhzPHU81Md1cpwpUurLQiXRR7ezVPx3uRG51IFrUaQ1-SDi6Yd1nxIGie4&usqp=CAU"> Discord</a></code>
 
