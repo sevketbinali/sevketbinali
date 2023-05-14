@@ -13,7 +13,7 @@
   
   
 - 🔬 I'm a student in Computer Engineering at Bursa Uludag University.
-- 📚 Currently Working with **Power Apps - Power Automate - Power BI** and anything related with **Digital Transformation Projects**.
+- 📚 Currently Working with **Power Platform** known as low-code and anything related with **Digital Transformation Projects**.
 - 🤖 I also interested about artificial intelligence, machine learning, data analysis and data visualization with **Python**.
 - 🦾 I want improve myself to what i interest and love to do.
 - 📫 How to reach me **sevketbinali@gmail.com**
