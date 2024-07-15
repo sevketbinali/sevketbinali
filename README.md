@@ -22,7 +22,7 @@
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-
+<h4 align="left">Power Platform:</h4>
 <a>
  <a href="https://powerapps.microsoft.com/tr-tr/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-Apps-Colored.svg" alt="powerapps" width="30" height="30"/> </a> &nbsp;
  <a href="https://powerautomate.microsoft.com/tr-tr/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-Automate-Colored.svg" alt="powerautoamte" width="30" height="30"/> </a> &nbsp;
