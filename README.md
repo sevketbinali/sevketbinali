@@ -11,7 +11,7 @@
   <br>
   
 - 🔬 I am currently working at Bosch Turkey as an IT Infrastructure Responsible
-- ✨ I specialize in Cyber Security, Windows System Administration, Server Management, Network Segmentation, Firewall, and Network Monitoring.
+- ✨ I specialize in Cyber Security, Windows System Administration, Server Management, Manufacturing IT, Network Segmentation, Firewall and Network Monitoring.
 - 🤖 Additionally interested about **Power Platform** known as low-code and anything related with **Digital Transformation Projects**.
 - 📚 Also I have been learning and gaining new experiences by developing software projects in various areas, such as game development (Unity), data analysis (Python) and web programming (React.js)
 - 🦾 I want improve myself to what i interest and love to do.
