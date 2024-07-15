@@ -9,17 +9,6 @@
 
   </h5>
   <br>
-hr { 
-  
-  display: block;
-  color:gray;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 1px;
-} 
   
 - 🔬 I am currently working at Bosch Turkey as an IT Infrastructure Responsible
 - 📚 I specialize in Cyber Security, Windows System Administration, Server Management, Network Segmentation, Firewall, and Network Monitoring.
