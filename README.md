@@ -40,9 +40,9 @@
  <a href="https://www.tensorflow.org" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="31" height="31"/> </a> &nbsp;
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a> &nbsp;
 </a>
-"--------------------------------------------------------------------------------------------------------"
 <h3 align="left">Tools:</h3>
 <a>
+ ---------------------------------------------------------
  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel=”noopener”> <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="azure-devops" width="34" height="31"/> </a> &nbsp;
  <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a> &nbsp;
  <a href="https://www.microsoft.com/tr-tr/microsoft-365/visio/flowchart-software" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" alt="visio" width="30" height="30"/> </a>   &nbsp; 
