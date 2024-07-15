@@ -32,7 +32,7 @@
  <a href="https://powerplatform.microsoft.com/tr-tr/dataverse/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Dataverse-Colored.svg" alt="dataverse" width="30" height="30"/> </a> &nbsp;
  
 ---------------------------------------------
- 
+ <h5 align="left">Programming Languages:</h5>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
  <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> &nbsp;
  <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/> </a>  &nbsp;
