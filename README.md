@@ -31,11 +31,11 @@
  <a href="https://powerpages.microsoft.com/tr-tr/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-Pages.svg" alt="powerpages" width="30" height="30"/> </a> &nbsp;
  <a href="https://powerplatform.microsoft.com/tr-tr/dataverse/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Dataverse-Colored.svg" alt="dataverse" width="30" height="30"/> </a> &nbsp;
  
- 
+---------------------------------------------
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
- <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> &nbsp;
+ <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/> </a>  &nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="css3" width="31" height="31"/> </a> &nbsp;
  <a href="https://www.djangoproject.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg" alt="django" width="31" height="31"/> </a> &nbsp;
@@ -55,7 +55,6 @@
  <a href="https://anaconda.org/" target="_blank" rel=”noopener”> <img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="30" height="30"/> </a>   &nbsp; 
  <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> &nbsp; 
  <a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a> 
-
 </a> <br>
 <br>
 
