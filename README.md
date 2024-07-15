@@ -1,4 +1,3 @@
-<h2 align="center">Hello there! 🚀 I'm Şevket</h1>
 <h3 align="center">A Software Developer from Bursa/Turkey</h3>
 
 
@@ -40,9 +39,9 @@
  <a href="https://www.djangoproject.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg" alt="django" width="31" height="31"/> </a> &nbsp;
  <a href="https://www.tensorflow.org" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="31" height="31"/> </a> &nbsp;
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a> &nbsp;
- 
+ --------------------------------------------------------------------
 </a>
---------------------------------------------------------------------
+
 <h3 align="left">Tools:</h3>
 <a>
  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel=”noopener”> <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="azure-devops" width="34" height="31"/> </a> &nbsp;
