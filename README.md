@@ -12,9 +12,9 @@
   <br>
   
   
-- 🔬 I'm a student in Computer Engineering at Bursa Uludag University.
-- 📚 Currently Working with **Power Platform** known as low-code and anything related with **Digital Transformation Projects**.
-- 🤖 I also interested about artificial intelligence, machine learning, data analysis and data visualization with **Python**.
+- 🔬 I am currently working at Bosch Turkey as an IT Infrastructure Responsible
+- 📚 I am specializing in Cyber Security, Windows System Administration, Server Management, Network Segmentation, Firewall and Network Monitoring.
+- 🤖 I also interested about **Power Platform** known as low-code and anything related with **Digital Transformation Projects**.
 - 🦾 I want improve myself to what i interest and love to do.
 - 📫 How to reach me **sevketbinali@gmail.com**
   
