@@ -13,7 +13,7 @@
   
   
 - 🔬 I am currently working at Bosch Turkey as an IT Infrastructure Responsible
-- 📚 I am specializing in Cyber Security, Windows System Administration, Server Management, Network Segmentation, Firewall and Network Monitoring.
+- 📚 I specialize in Cyber Security, Windows System Administration, Server Management, Network Segmentation, Firewall, and Network Monitoring.
 - 🤖 Additionally interested about **Power Platform** known as low-code and anything related with **Digital Transformation Projects**.
 - ✨ Also I have been learning and gaining new experiences by developing software projects in various areas, such as game development (Unity), data analysis (Python) and web programming (React.js)
 - 🦾 I want improve myself to what i interest and love to do.
@@ -52,7 +52,7 @@
  <a href="https://anaconda.org/" target="_blank" rel=”noopener”> <img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="30" height="30"/> </a>   &nbsp; 
  <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="34" height="34"/> </a> 
  <a href="https://www.visual-paradigm.com" target="_blank" rel=”noopener”> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual-paradigm" width="32" height="32"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="http://upload.turkcewiki.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="34" height="31"/> </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="http://upload.turkcewiki.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="34" height="31"/> </a> 
 </a> <br>
 <br>
 
