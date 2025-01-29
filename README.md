@@ -36,8 +36,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="css3" width="31" height="31"/> </a> &nbsp;
  <a href="https://www.djangoproject.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg" alt="django" width="31" height="31"/> </a> &nbsp;
- <a href="https://www.tensorflow.org" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="31" height="31"/> </a> &nbsp;
- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a> &nbsp;
+ <a href="https://www.tensorflow.org" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="31" height="31"/> </a> &nbsp;
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="27" height="30"/> </a> &nbsp;
 </a>
 <hr>
 <h3 align="left">Tools:</h3>
