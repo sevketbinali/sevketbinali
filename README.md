@@ -1,4 +1,4 @@
-# 👨‍💻 A Software Developer from Bursa/Turkey
+# 👨‍💻 IT/OT Infrastructure Consultant from Bursa/Turkey
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/>](https://www.linkedin.com/in/sevketbinali/)
 
