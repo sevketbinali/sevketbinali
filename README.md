@@ -31,7 +31,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/>](https://www.w3schools.com/css/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="31"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/main/django.svg" width="31"/>](https://www.djangoproject.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="31"/>](https://www.tensorflow.org)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="27"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
