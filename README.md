@@ -7,7 +7,7 @@
 - 🔬 I am currently working at **Bosch Turkey** as an *IT Infrastructure Responsible*.  
 - ✨ I specialize in **Cyber Security, Windows System Administration, Server Management, Manufacturing IT, Network Segmentation, Firewall and Network Monitoring**.  
 - 🤖 Additionally interested in **Power Platform** (low-code) and **Digital Transformation Projects**.  
-- 📚 I have been learning and gaining new experiences by developing software projects in various areas, such as **game development (Unity)**, **data analysis (Python)** and **web programming (React.js)**.  
+- 📚 I have been learning and gaining new experiences by developing software projects in various areas, such as **game development (Unity)**, **data analysis (Python)** and **Agentic AI (n8n)**.  
 - 🦾 I want to improve myself in what I love to do.  
 - 📫 Reach me at **sevketbinali@gmail.com**  
 
